@@ -1,0 +1,8 @@
+project_token: 21ebf284fd4a79fef236d481
+name: bit
+language: python
+entrypoint: main.py
+resources:
+  limits:
+    cpu: 6
+    memory: 2Gi
